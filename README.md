@@ -8,6 +8,8 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 ## The projects
 
 * [Code And Talk](https://github.com/szabgab/codeandtalk.com) collecting data about tech confeerences in JSON files.
+* [Common Voice](https://voice.mozilla.org/) Mozilla's initiative to help teach machines how real people speak.
+* [LanguageTool](https://community.languagetool.org/) Open Source proofreading tool
 
 
 
