@@ -7,8 +7,8 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 
 ## The projects
 
-* [Code And Talk](https://github.com/szabgab/codeandtalk.com) collecting data about tech conferences in JSON files. The README has links to the file describing how to add [Events](https://github.com/szabgab/codeandtalk.com/blob/main/docs/EVENTS.md) to the "database".
-* [Common Voice](https://voice.mozilla.org/) Mozilla's initiative to help teach machines how real people speak.
+* [Code And Talk](https://github.com/szabgab/codeandtalk.com): Collecting data about tech conferences in JSON files. The README has links to the file describing how to add [Events](https://github.com/szabgab/codeandtalk.com/blob/main/docs/EVENTS.md) to the "database".
+* [Common Voice](https://voice.mozilla.org/): Mozilla's initiative to help teach machines to understand speech. Everybody can [contribute voice recordings](https://voice.mozilla.org/en) (only English so far) and [contribute sentences](https://voice-sprint.mozilla.community/contributing/) (all languages).
 * [LanguageTool](https://community.languagetool.org/) Open Source proofreading tool
 
 
