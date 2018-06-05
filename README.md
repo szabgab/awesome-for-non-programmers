@@ -1,6 +1,6 @@
 # Awesome for non-programmers
 
-A list of Open Source projrect where you can contribute without any programming knowledge.
+A list of Open Source projects where you can contribute without any programming knowledge.
 
 Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners/).
 
