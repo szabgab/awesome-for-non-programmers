@@ -13,7 +13,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [swag-for-dev](https://github.com/swapagarwal/swag-for-dev): 😎👕🧦 A list of swag opportunities for developers
 * [awesome-eli5](https://github.com/swapagarwal/awesome-eli5): 👶 Tech "explained" Like you're Five! git.io/eli5
 * [awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration): 🔥 A curated list of content worth sharing to help you get inspired! ⚡️
-
+* [Oppia](https://github.com/oppia/oppia/wiki/Teaching-with-Oppia): [Oppia](https://www.oppia.org) Oppia is an online learning tool that enables anyone to easily create and share interactive activities.
 
 ## Contributing to this list
 
