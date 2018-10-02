@@ -1,6 +1,6 @@
 # Awesome for non-programmers
 
-A list of Open Source projects where you can contribute without any programming knowledge.
+Here comes a list of Open Source projects where you can contribute without any programming knowledge.
 
 Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners/).
 
@@ -23,5 +23,5 @@ If you'd like to add an item, please provide a brief description what the non-pr
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the author has waived all copyright and related or neighbouring rights of this work.
 
