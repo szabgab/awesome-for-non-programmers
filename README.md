@@ -9,6 +9,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 
 * [Code And Talk](https://github.com/szabgab/codeandtalk.com): Collecting data about tech conferences in JSON files. The README has links to the file describing how to add [Events](https://github.com/szabgab/codeandtalk.com/blob/main/docs/EVENTS.md) to the "database".
 * [Common Voice](https://voice.mozilla.org/): Mozilla's initiative to help teach machines to understand speech. Everybody can [contribute voice recordings](https://voice.mozilla.org/en/record), [validate recordings](https://voice.mozilla.org/en), (only English so far) and [contribute sentences](https://voice-sprint.mozilla.community/contributing/) (all languages).
+* [Godot Engine](https://godotengine.org/): 2D and 3D cross-platform game engine. Help with [translating the engine and documentation](https://godotengine.org/article/godots-documentation-now-open-translation) or in [lots of other ways](http://docs.godotengine.org/en/latest/community/contributing/ways_to_contribute.html).
 * [LanguageTool](https://community.languagetool.org/): Open Source proofreading tool
 * [swag-for-dev](https://github.com/swapagarwal/swag-for-dev): 😎👕🧦 A list of swag opportunities for developers
 * [awesome-eli5](https://github.com/swapagarwal/awesome-eli5): 👶 Tech "explained" Like you're Five! git.io/eli5
