@@ -15,8 +15,9 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [awesome-eli5](https://github.com/swapagarwal/awesome-eli5): 👶 Tech "explained" Like you're Five! git.io/eli5
 * [awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration): 🔥 A curated list of content worth sharing to help you get inspired! ⚡️
 * [Oppia](https://github.com/oppia/oppia/wiki/Teaching-with-Oppia): [Oppia](https://www.oppia.org) Oppia is an online learning tool that enables anyone to easily create and share interactive activities.
-* [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) This is dynamic list for everything you need to know for coder or non-coder. Make yourself comfortable while updating list and using any of the resoruce listed.
+* [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) This is dynamic list for everything you need to know for coder or non-coder. Make yourself comfortable while updating list and using any of the resources listed.
 * [jsonmc](https://github.com/jsonmc/jsonmc) A comprehensive collection of movies and actors easy to use and parse in json file format segregated by release year.
+
 ## Contributing to this list
 
 If you'd like to add an item, please provide a brief description what the non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute.
