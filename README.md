@@ -17,6 +17,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [Oppia](https://github.com/oppia/oppia/wiki/Teaching-with-Oppia): [Oppia](https://www.oppia.org) Oppia is an online learning tool that enables anyone to easily create and share interactive activities.
 * [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) This is dynamic list for everything you need to know for coder or non-coder. Make yourself comfortable while updating list and using any of the resources listed.
 * [jsonmc](https://github.com/jsonmc/jsonmc) A comprehensive collection of movies and actors easy to use and parse in json file format segregated by release year.
+* [freecodecamp](https://www.freecodecamp.org/): Learn to code with free online courses, programming projects, and interview preparation for developer jobs.
 
 ## Contributing to this list
 
