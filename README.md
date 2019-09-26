@@ -19,6 +19,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [jsonmc](https://github.com/jsonmc/jsonmc) A comprehensive collection of movies and actors -- easy to use and parsed in json file format, segregated by release year.
 * [LearningOpportunity](https://guides.github.com/activities/hello-world/) Guide that provides a quick and short tutorial on how to start contributing with GitHub.
 * [lang++](https://github.com/fibanneacci/langplusplus): A collection of code editing tools with support for non-English languages. Non-programmers have the opportunity to contribute to the translations.
+* [Legesher project] (https://github.com/legesher/legesher-dot-io): Legesher is an open source project that allows creativity and innovation to not be lost in translation. There are lots of opportunities there for all the people to contribute.
 
 ## Contributing to this list
 
