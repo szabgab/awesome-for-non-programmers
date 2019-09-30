@@ -19,6 +19,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [jsonmc](https://github.com/jsonmc/jsonmc) A comprehensive collection of movies and actors -- easy to use and parsed in json file format, segregated by release year.
 * [LearningOpportunity](https://guides.github.com/activities/hello-world/) Guide that provides a quick and short tutorial on how to start contributing with GitHub.
 * [lang++](https://github.com/fibanneacci/langplusplus): A collection of code editing tools with support for non-English languages. Non-programmers have the opportunity to contribute to the translations.
+* [Legesher Doc](https://github.com/legesher/legesher-docs): This documentation guide is to serve beginners who are learning how to code :laptop:, developers who are using Legesher to program their projects 👩‍💻, and any individual (whether tech savy or not) who wants to share their creativity 🎨 and innovation 💡 with this project to propel it forward 🎁.
 
 ## Contributing to this list
 
