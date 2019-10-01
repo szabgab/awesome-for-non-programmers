@@ -19,6 +19,12 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [jsonmc](https://github.com/jsonmc/jsonmc) A comprehensive collection of movies and actors -- easy to use and parsed in json file format, segregated by release year.
 * [LearningOpportunity](https://guides.github.com/activities/hello-world/) Guide that provides a quick and short tutorial on how to start contributing with GitHub.
 * [lang++](https://github.com/fibanneacci/langplusplus): A collection of code editing tools with support for non-English languages. Non-programmers have the opportunity to contribute to the translations.
+* [Lobe] (https://lobe.ai/): Lobe is an easy-to-use visual mechanism that lets users to build custom deep learning models, promptly train them, and ship them immediately in a user desired app without writing any code.
+* [Orange] (http://orange.biolab.si/): Orange is an open-source data visualization, machine learning and data mining toolkit. 
+* [Data Robot] (https://www.datarobot.com/): DataRobot's automated machine learning platform makes it fast and easy to build and deploy accurate predictive models without the need of proficient coding knowledge.
+* [Google AutoML] (https://cloud.google.com/automl/): Train high-quality custom machine learning models with minimal effort and machine learning expertise.
+* [Azure ML Studio by Microsoft] (https://azure.microsoft.com/en-in/services/machine-learning-studio) : Free for about one year with a microsoft account and partially opensourced, Azure ML Studio helps to engage in machine learning without the necessary requirement of knowing how to code.
+
 
 ## Contributing to this list
 
