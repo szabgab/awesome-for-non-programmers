@@ -19,6 +19,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [jsonmc](https://github.com/jsonmc/jsonmc) A comprehensive collection of movies and actors -- easy to use and parsed in json file format, segregated by release year.
 * [LearningOpportunity](https://guides.github.com/activities/hello-world/) Guide that provides a quick and short tutorial on how to start contributing with GitHub.
 * [lang++](https://github.com/fibanneacci/langplusplus): A collection of code editing tools with support for non-English languages. Non-programmers have the opportunity to contribute to the translations.
+* [Awesome App Ideas](https://github.com/tastejs/awesome-app-ideas) A list of app ideas. You can add your own app ideas. Non-Programmers can create app ideas for programmers looking through the list to solve.
 
 ## Contributing to this list
 
