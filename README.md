@@ -19,6 +19,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [jsonmc](https://github.com/jsonmc/jsonmc) A comprehensive collection of movies and actors -- easy to use and parsed in json file format, segregated by release year.
 * [LearningOpportunity](https://guides.github.com/activities/hello-world/) Guide that provides a quick and short tutorial on how to start contributing with GitHub.
 * [lang++](https://github.com/fibanneacci/langplusplus): A collection of code editing tools with support for non-English languages. Non-programmers have the opportunity to contribute to the translations.
+* [Awesome Fantasy](https://github.com/RichardLitt/awesome-fantasy): A list of fantasy books and TV-series that anyone can contribute to.
 
 ## Contributing to this list
 
