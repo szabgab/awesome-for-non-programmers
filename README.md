@@ -16,7 +16,6 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration): 🔥 A curated list of content worth sharing to help you get inspired! ⚡️
 * [Oppia](https://github.com/oppia/oppia/wiki/Teaching-with-Oppia): [Oppia](https://www.oppia.org) Oppia is an online learning tool that enables anyone to easily create and share interactive activities.
 * [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) This is a dynamic list for everything you need to know for coders and non-coders. Make yourself comfortable updating the list and using any of the resources listed.
-* [jsonmc](https://github.com/jsonmc/jsonmc) A comprehensive collection of movies and actors -- easy to use and parsed in json file format, segregated by release year.
 * [LearningOpportunity](https://guides.github.com/activities/hello-world/) Guide that provides a quick and short tutorial on how to start contributing with GitHub.
 * [lang++](https://github.com/fibanneacci/langplusplus): A collection of code editing tools with support for non-English languages. Non-programmers have the opportunity to contribute to the translations.
 
