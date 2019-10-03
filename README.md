@@ -18,6 +18,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) This is a dynamic list for everything you need to know for coders and non-coders. Make yourself comfortable updating the list and using any of the resources listed.
 * [LearningOpportunity](https://guides.github.com/activities/hello-world/) Guide that provides a quick and short tutorial on how to start contributing with GitHub.
 * [lang++](https://github.com/fibanneacci/langplusplus): A collection of code editing tools with support for non-English languages. Non-programmers have the opportunity to contribute to the translations.
+* [Awesome Fantasy](https://github.com/RichardLitt/awesome-fantasy): A list of fantasy books and TV-series that anyone can contribute to.
 
 ## Contributing to this list
 
