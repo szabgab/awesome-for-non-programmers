@@ -19,7 +19,8 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [LearningOpportunity](https://guides.github.com/activities/hello-world/) Guide that provides a quick and short tutorial on how to start contributing with GitHub.
 * [lang++](https://github.com/fibanneacci/langplusplus): A collection of code editing tools with support for non-English languages. Non-programmers have the opportunity to contribute to the translations.
 * [Awesome App Ideas](https://github.com/tastejs/awesome-app-ideas) A list of app ideas. You can add your own app ideas. Non-Programmers can create app ideas for programmers looking through the list to solve.
-* [Awesome Fantasy](https://github.com/RichardLitt/awesome-fantasy): A list of fantasy books and TV-series that anyone can contribute to.
+* [Awesome Fantasy](https://github.com/legesher/legesher-translations): A list of fantasy books and TV-series that anyone can contribute to.
+* [Legesher Translations](https://github.com/RichardLitt/awesome-fantasy): Programming with Legesher's dev tools empowers any developer to create without losing the art of innovation bulb, creativity art, or collaboration handshake in translation.
 
 ## Contributing to this list
 
