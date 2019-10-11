@@ -21,7 +21,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [Awesome App Ideas](https://github.com/tastejs/awesome-app-ideas) A list of app ideas. You can add your own app ideas. Non-Programmers can create app ideas for programmers looking through the list to solve.
 * [Awesome Fantasy](https://github.com/RichardLitt/awesome-fantasy): A list of fantasy books and TV-series that anyone can contribute to.
 * [first contributions](https://github.com/firstcontributions/first-contributions) Beginner friendly repository, just update your name and bingo!
-* [Flexbox Froggy(https://github.com/thomaspark/flexboxfroggy) Learn CSS Flexbox while playing!
+* [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy) Learn CSS Flexbox while playing!
 ## Contributing to this list
 
 If you'd like to add an item, please provide a brief description what non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute.
