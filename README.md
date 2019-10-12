@@ -15,6 +15,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [awesome-eli5](https://github.com/swapagarwal/awesome-eli5): 👶 Tech "explained" like you're five! git.io/eli5
 * [awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration): 🔥 A curated list of content worth sharing to help you get inspired! ⚡️
 * [Oppia](https://github.com/oppia/oppia/wiki/Teaching-with-Oppia): [Oppia](https://www.oppia.org) Oppia is an online learning tool that enables anyone to easily create and share interactive activities.
+* [Blog for Students](https://careerhigh.in/) This is the site where many blog is written for students.
 * [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) This is a dynamic list for everything you need to know for coders and non-coders. Make yourself comfortable updating the list and using any of the resources listed.
 * [LearningOpportunity](https://guides.github.com/activities/hello-world/) Guide that provides a quick and short tutorial on how to start contributing with GitHub.
 * [lang++](https://github.com/fibanneacci/langplusplus): A collection of code editing tools with support for non-English languages. Non-programmers have the opportunity to contribute to the translations.
