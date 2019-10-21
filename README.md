@@ -24,7 +24,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy) Learn CSS Flexbox while playing!
 ## Contributing to this list
 
-If you'd like to add an item, please provide a brief description what non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute.
+If you'd like to add an item, please provide a brief description what non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute..
 
 
 ## License
