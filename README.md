@@ -23,6 +23,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [first contributions](https://github.com/firstcontributions/first-contributions) Beginner friendly repository, just update your name and bingo!
 * [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy) Learn CSS Flexbox while playing!
 * [Learn GIT branching] (https://pcottle.github.io/learnGitBranching) play the game and learn git branching
+* [Write quotes and poems] (https://pcottle.github.io/learnGitBranching) write your own poetries and update them easily
 ## Contributing to this list
 
 If you'd like to add an item, please provide a brief description what non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute..
