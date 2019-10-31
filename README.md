@@ -1,4 +1,4 @@
-# Awesome for non-programmers
+﻿# Best Way For the Beginners at developing
 
 Here comes a list of Open Source projects where you can contribute without any programming knowledge.
 
@@ -26,6 +26,13 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 ## Contributing to this list
 
 If you'd like to add an item, please provide a brief description what non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute..
+
+##
+Best way to Begin Coding
+
+Start With GitHub and make it easier for the Developing
+
+##
 
 
 ## License
