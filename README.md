@@ -23,6 +23,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [first contributions](https://github.com/firstcontributions/first-contributions) Beginner friendly repository, just update your name and bingo!
 * [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy) Learn CSS Flexbox while playing!
 * [Learn GIT branching](https://pcottle.github.io/learnGitBranching) play the game and learn git branching
+* [Open Source Math](https://github.com/open-source-math/exponential-and-logarithmic-functions/blob/master/README.md) Help others learn math by creating and revising questions.
 
 ## Contributing to this list
 
