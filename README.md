@@ -24,6 +24,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy) Learn CSS Flexbox while playing!
 * [Learn GIT branching](https://pcottle.github.io/learnGitBranching) play the game and learn git branching
 * [Open Source Math](https://github.com/open-source-math) Practice markdown and git, and help someone learn math.
+* [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content): Open source Knowledge Base filled with articles about Developer Experience and related topics like software creation process and team management
 
 ## Contributing to this list
 
