@@ -25,6 +25,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [Learn GIT branching](https://pcottle.github.io/learnGitBranching) play the game and learn git branching
 * [Open Source Math](https://github.com/open-source-math) Practice markdown and git, and help someone learn math.
 * [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content): Open source Knowledge Base filled with articles about Developer Experience and related topics like software creation process and team management
+* [DevJoke](https://github.com/shrutikapoor08/devjoke): #DevJoke. Submit a PR if you know a good dev joke 
 
 ## Contributing to this list
 
