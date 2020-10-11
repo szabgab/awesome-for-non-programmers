@@ -27,6 +27,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content): Open source Knowledge Base filled with articles about Developer Experience and related topics like software creation process and team management
 * [DevJoke](https://github.com/shrutikapoor08/devjoke): #DevJoke. Submit a PR if you know a good dev joke 
 * [LaTeX Gboard Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/5): ⌨ Add shortcuts to a Gboard dictionary to allow Unicode to be typed with simple shortcuts on Android ⚡
+* [Open Drinks](https://github.com/alfg/opendrinks): Submit drink recipes.
 
 ## Contributing to this list
 
