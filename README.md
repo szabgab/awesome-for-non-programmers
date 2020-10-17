@@ -29,6 +29,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [LaTeX Gboard Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/5): ⌨ Add shortcuts to a Gboard dictionary to allow Unicode to be typed with simple shortcuts on Android ⚡
 * [Open Drinks](https://github.com/alfg/opendrinks): Submit drink recipes.
 * [the-bread-code](https://github.com/hendricius/the-bread-code): An opportunity to share your bread recipes! 
+* [What non-programmers can do](https://github.com/tvanantwerp/github-for-non-programmers): Great for beginners
 
 ## Contributing to this list
 
