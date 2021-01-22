@@ -30,6 +30,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [Open Drinks](https://github.com/alfg/opendrinks): Submit drink recipes.
 * [the-bread-code](https://github.com/hendricius/the-bread-code): An opportunity to share your bread recipes! 
 * [What non-programmers can do](https://github.com/tvanantwerp/github-for-non-programmers): Great for beginners
+* [Data Science Notes](https://github.com/wyattowalsh/data-science-notes): Share notes across topics in data science such as mathematics, visualization, and modeling! 
 
 ## Contributing to this list
 
