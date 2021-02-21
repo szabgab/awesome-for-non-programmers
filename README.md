@@ -31,6 +31,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [the-bread-code](https://github.com/hendricius/the-bread-code): An opportunity to share your bread recipes! 
 * [What non-programmers can do](https://github.com/tvanantwerp/github-for-non-programmers): Great for beginners
 * [Data Science Notes](https://github.com/wyattowalsh/data-science-notes): Share notes across topics in data science such as mathematics, visualization, and modeling! 
+* [Liar Game](https://github.com/fibanneacci/liar): A web-based multiplayer game. Contribute to the list of categories / words!
 
 ## Contributing to this list
 
