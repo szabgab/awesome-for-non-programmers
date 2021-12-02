@@ -31,7 +31,9 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [What non-programmers can do](https://github.com/tvanantwerp/github-for-non-programmers): Great for beginners
 * [Data Science Notes](https://github.com/wyattowalsh/data-science-notes): Share notes across topics in data science such as mathematics, visualization, and modeling! 
 * [Liar Game](https://github.com/fibanneacci/liar): A web-based multiplayer game. Contribute to the list of categories / words!
-* [open playlists](https://github.com/bhargav794/hacktoberfest-practice-music-playlists) : A project for helping beginners to understand the process of making a pull request.The   readme has instructions on how to make a PR  people can add spotify links of songs and coding playlists to create a single place for all the programming music. 
+* [open playlists](https://github.com/bhargav794/hacktoberfest-practice-music-playlists) : A project for helping beginners to understand the process of making a pull request. The readme has instructions on how to make a PR people can add spotify links of songs and coding playlists to create a single place for all the programming music.
+* [Awesome Made by Japanese](https://github.com/mvximenko/awesome-made-by-japanese) : The best open source projects that were made and mainly contributed by Japanese developers.
+* [Awesome Made by Germans](https://github.com/mvximenko/awesome-made-by-germans) : The best open source projects that were made and mainly contributed by German developers.
 
 ## Contributing to this list
 
