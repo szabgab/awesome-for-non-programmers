@@ -35,6 +35,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [Awesome Made by Japanese](https://github.com/mvximenko/awesome-made-by-japanese) : The best open source projects that were made and mainly contributed by Japanese developers.
 * [Awesome Made by Germans](https://github.com/mvximenko/awesome-made-by-germans) : The best open source projects that were made and mainly contributed by German developers. 
 * [CheatSheets](https://github.com/Jahenr/CheatSheets): Cheat sheet documentation project that allows new/old contributors to add and reference most common commands for systems we know and love in a single place.
+*  [Superalgos](https://github.com/Superalgos/Superalgos): A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token. Mainly programmed in Javascript/Html/Css
 
 
 ## Contributing to this list
