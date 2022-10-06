@@ -38,7 +38,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [CheatSheets](https://github.com/Jahenr/CheatSheets): Cheat sheet documentation project that allows new/old contributors to add and reference most common commands for systems we know and love in a single place.
 *  [Superalgos](https://github.com/Superalgos/Superalgos): A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token. Mainly programmed in Javascript/Html/Css
 *  [Owncast](https://github.com/owncast/owncast): A self-hosted livestreaming video and chat server that allows you to build experiences similar, but not limited to big tech owned services. A great project for those interested in design, media, documentation, tutorials or community engagement.
-
+*  [USe ful repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) A collection of useful repositories which provide learning resources. 
 
 ## Contributing to this list
 
