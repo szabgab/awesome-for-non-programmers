@@ -51,3 +51,10 @@ If you'd like to add an item, please provide a brief description what non-progra
 
 To the extent possible under law, the author has waived all copyright and related or neighbouring rights of this work.
 
+
+### Contributors
+
+<a href="https://github.com/szabgab/awesome-for-non-programmers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=szabgab/awesome-for-non-programmers" />
+</a>
+
