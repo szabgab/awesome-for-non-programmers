@@ -41,6 +41,9 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 *  [USe ful repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) A collection of useful repositories which provide learning resources. 
 * [WRITE A BLOG](https://github.com/akshitagupta15june/PetMe) An awesome repository PET ME for contribution in hactoberfest as well
 * [The Turing Way](https://github.com/alan-turing-institute/the-turing-way): A series of open source guides about data science and AI. Contributors can add to new and ongoing chapters, work on translation efforts, contribute to infrastructure maintenance work within the project, and more.
+
+* [Voicerra](https://github.com/TheGuyDangerous/Voicerra) : All in one notes application that isn't limited with the note making part but also comes with a lot of functionalities which can easily deal with your note making problems.
+
 ## Contributing to this list
 
 If you'd like to add an item, please provide a brief description what non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute..
