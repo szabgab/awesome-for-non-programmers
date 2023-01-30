@@ -8,7 +8,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 ## The projects
 * [Code And Talk](https://github.com/szabgab/codeandtalk.com): Collecting data about tech conferences in JSON files. The README has links to the file describing how to add [Events](https://github.com/szabgab/codeandtalk.com/blob/main/docs/EVENTS.md) to the "database".
 * [List of Open Source projects by corporations](https://github.com/szabgab/open-source-by-corporations)
-* [List of Open Soruce by Higher Education Institutions](https://github.com/szabgab/open-source-by-higher-education)
+* [List of Open Source by Higher Education Institutions](https://github.com/szabgab/open-source-by-higher-education)
 * [List of Open Source by government](https://github.com/szabgab/open-source-by-government)
 
 * [Cloud Native Glossary](https://github.com/cncf/glossary/blob/main/CONTRIBUTING.md): [CNCF Glossary](glossary.cncf.io) explains cloud-native concepts and the terminologies involved in that ecosystem in simple language and does not require any prior technical background to grasp them. Individuals can start contributing to it by localizing/translating or modifying current terms or proposing new terms.
