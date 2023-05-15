@@ -42,7 +42,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [CheatSheets](https://github.com/Jahenr/CheatSheets): Cheat sheet documentation project that allows new/old contributors to add and reference most common commands for systems we know and love in a single place.
 *  [Superalgos](https://github.com/Superalgos/Superalgos): A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token. Mainly programmed in Javascript/Html/Css.
 *  [Owncast](https://github.com/owncast/owncast): A self-hosted livestreaming video and chat server that allows you to build experiences similar, but not limited to, big tech owned services. A great project for those interested in design, media, documentation, tutorials or community engagement.
-*  [USe ful repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) A collection of useful repositories which provide learning resources. 
+*  [Useful repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) A collection of useful repositories which provide learning resources. 
 * [WRITE A BLOG](https://github.com/akshitagupta15june/PetMe) An awesome repository PET ME for contribution in hactoberfest as well.
 * [The Turing Way](https://github.com/alan-turing-institute/the-turing-way): A series of open source guides about data science and AI. Contributors can add to new and ongoing chapters, work on translation efforts, contribute to infrastructure maintenance work within the project, and more.
 ## Contributing to this list
