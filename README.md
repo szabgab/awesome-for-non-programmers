@@ -6,7 +6,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 
 
 ## The projects
-* [List of all the awesome lists](https://github.com/szabgab/awesome-lists)
+* [List of all the awesome lists](https://github.com/szabgab/awesome-lists) - A collection of URLs. Excellent way to send your first pull-request.
 * [List of Open Source projects](https://github.com/OSDC-Code-Maven/open-source-by-organizations/) by corporations, Higher Education Institutions, and governments
 
 * [Cloud Native Glossary](https://github.com/cncf/glossary/blob/main/CONTRIBUTING.md): [CNCF Glossary](glossary.cncf.io) explains cloud-native concepts and the terminologies involved in that ecosystem in simple language and does not require any prior technical background to grasp them. Individuals can start contributing to it by localizing/translating or modifying current terms or proposing new terms.
