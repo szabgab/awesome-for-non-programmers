@@ -42,6 +42,9 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 *  [Useful repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) A collection of useful repositories which provide learning resources. 
 * [WRITE A BLOG](https://github.com/akshitagupta15june/PetMe) An awesome repository PET ME for contribution in hactoberfest as well.
 * [The Turing Way](https://github.com/alan-turing-institute/the-turing-way): A series of open source guides about data science and AI. Contributors can add to new and ongoing chapters, work on translation efforts, contribute to infrastructure maintenance work within the project, and more.
+* [If-You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): This repository helps you learn JavaScript from the start. It is the official GitHub repo for the You Don’t Know JS book.
+* [Become a Developer](https://github.com/kamranahmedse/developer-roadmap): This repository contains a roadmap for becoming a web developer. It gets updated on a weekly, monthly, and yearly basis. They also have a [website](https://roadmap.sh/) of their own that has roadmaps to become a Frontend, backend, android, Dev- ops, React, PostgradSQL Developer.
+  
 ## Contributing to this list
 
 If you'd like to add an item, please provide a brief description what non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute..
