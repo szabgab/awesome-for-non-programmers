@@ -5,15 +5,12 @@ Here comes a list of Open Source projects where you can contribute without any p
 * Translating text
 * ...
 
-
 Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners/).
-
 
 ## The projects
 * [List of all the awesome lists](https://github.com/szabgab/awesome-lists) - A collection of URLs. Excellent way to send your first pull-request.
 * [List of Open Source projects](https://github.com/OSDC-Code-Maven/open-source-by-organizations/) by corporations, Higher Education Institutions, and governments
 * [Kantoniko](https://github.com/kantoniko/) the corner of Ladino on the Internet. You can contribute voice recordings, words in Ladino, translation of words. Sentences in Ladino, translation of sentences.
-
 * [Cloud Native Glossary](https://github.com/cncf/glossary/blob/main/CONTRIBUTING.md): [CNCF Glossary](https://glossary.cncf.io) explains cloud-native concepts and the terminologies involved in that ecosystem in simple language and does not require any prior technical background to grasp them. Individuals can start contributing to it by localizing/translating or modifying current terms or proposing new terms.
 * [Code And Talk](https://github.com/szabgab/codeandtalk.com): Collecting data about tech conferences in JSON files. The README has links to the file describing how to add [Events](https://github.com/szabgab/codeandtalk.com/blob/main/docs/EVENTS.md) to the "database".
 * [Common Voice](https://voice.mozilla.org/): Mozilla's initiative to help teach machines to understand speech. Everybody can [contribute voice recordings](https://voice.mozilla.org/en/record), [validate recordings](https://voice.mozilla.org/en), (only English so far) and [contribute sentences](https://voice-sprint.mozilla.community/contributing/) (all languages).
@@ -38,13 +35,17 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework): An opportunity to share your bread / sourdough recipes!. 
 * [What non-programmers can do](https://github.com/tvanantwerp/github-for-non-programmers): Great for beginners.
 * [Data Science Notes](https://github.com/wyattowalsh/data-science-notes): Share notes across topics in data science such as mathematics, visualization, and modeling! 
-* [Liar Game](https://github.com/fibanneacci/liar): A web-based multiplayer game. Contribute to the list of categories / words!.
 * [open playlists](https://github.com/bhargav794/hacktoberfest-practice-music-playlists) : A project for helping beginners to understand the process of making a pull request. The readme has instructions on how to make a PR people can add spotify links of songs and coding playlists to create a single place for all the programming music.
 * [CheatSheets](https://github.com/Jahenr/CheatSheets): Cheat sheet documentation project that allows new/old contributors to add and reference most common commands for systems we know and love in a single place.
-*  [Owncast](https://github.com/owncast/owncast): A self-hosted livestreaming video and chat server that allows you to build experiences similar, but not limited to, big tech owned services. A great project for those interested in design, media, documentation, tutorials or community engagement.
-*  [Useful repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) A collection of useful repositories which provide learning resources. 
+* [Owncast](https://github.com/owncast/owncast): A self-hosted livestreaming video and chat server that allows you to build experiences similar, but not limited to, big tech owned services. A great project for those interested in design, media, documentation, tutorials or community engagement.
+* [Useful repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) A collection of useful repositories which provide learning resources. 
 * [WRITE A BLOG](https://github.com/akshitagupta15june/PetMe) An awesome repository PET ME for contribution in hactoberfest as well.
 * [The Turing Way](https://github.com/alan-turing-institute/the-turing-way): A series of open source guides about data science and AI. Contributors can add to new and ongoing chapters, work on translation efforts, contribute to infrastructure maintenance work within the project, and more.
+
+## Inactive projects
+List of projects which no longer accept contributions but are still interesting. 
+* [Liar Game](https://github.com/fibanneacci/liar): A web-based multiplayer game. Contribute to the list of categories / words!.
+
 ## Contributing to this list
 
 If you'd like to add an item, please provide a brief description what non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute..
