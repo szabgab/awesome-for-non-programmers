@@ -41,6 +41,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [Useful repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) A collection of useful repositories which provide learning resources. 
 * [WRITE A BLOG](https://github.com/akshitagupta15june/PetMe) An awesome repository PET ME for contribution in hactoberfest as well.
 * [The Turing Way](https://github.com/alan-turing-institute/the-turing-way): A series of open source guides about data science and AI. Contributors can add to new and ongoing chapters, work on translation efforts, contribute to infrastructure maintenance work within the project, and more.
+* [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines): A curated guide for beginners who want to start learning how to code or break into the tech industry. It provides resources, roadmaps, and tips to help anyone begin their journey, regardless of prior experience. This repository can help people without technical backgrounds find their starting point and navigate the first steps into programming.
 
 ## Inactive projects
 List of projects which no longer accept contributions but are still interesting. 
