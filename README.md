@@ -41,6 +41,7 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 * [Useful repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) A collection of useful repositories which provide learning resources. 
 * [WRITE A BLOG](https://github.com/akshitagupta15june/PetMe) An awesome repository PET ME for contribution in hactoberfest as well.
 * [The Turing Way](https://github.com/alan-turing-institute/the-turing-way): A series of open source guides about data science and AI. Contributors can add to new and ongoing chapters, work on translation efforts, contribute to infrastructure maintenance work within the project, and more.
+* [Basic Github commands](https://github.com/LiviaGitHub/basic-github-commands): This repository serves as a comprehensive guide to the fundamental commands of Git. Whether you are a beginner or looking to refresh your knowledge, this repository provides clear explanations and practical examples of essential Git commands. Contributors can enhance this project by: Adding new chapters or expanding ongoing ones, working on translation efforts to make the content accessible to a broader audience, providing feedback and suggestions for better documentation.
 
 ## Inactive projects
 List of projects which no longer accept contributions but are still interesting. 
