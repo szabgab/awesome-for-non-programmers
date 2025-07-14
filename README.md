@@ -1,6 +1,7 @@
 # Awesome for non-programmers
 
-Here comes a list of Open Source projects where you can contribute without any programming knowledge. Tasks such as
+Here comes a list of Open Source projects where you can contribute without any programming knowledge. 
+Tasks such as
 
 - Collecting data
 - Translating text
