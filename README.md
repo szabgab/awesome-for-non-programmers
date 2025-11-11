@@ -37,7 +37,6 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 - [the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework): An opportunity to share your bread / sourdough recipes!.
 - [What non-programmers can do](https://github.com/tvanantwerp/github-for-non-programmers): Great for beginners.
 - [Data Science Notes](https://github.com/wyattowalsh/data-science-notes): Share notes across topics in data science such as mathematics, visualization, and modeling!
-- [open playlists](https://github.com/bhargav794/hacktoberfest-practice-music-playlists) : A project for helping beginners to understand the process of making a pull request. The readme has instructions on how to make a PR people can add spotify links of songs and coding playlists to create a single place for all the programming music.
 - [CheatSheets](https://github.com/Jahenr/CheatSheets): Cheat sheet documentation project that allows new/old contributors to add and reference most common commands for systems we know and love in a single place.
 - [Owncast](https://github.com/owncast/owncast): A self-hosted livestreaming video and chat server that allows you to build experiences similar, but not limited to, big tech owned services. A great project for those interested in design, media, documentation, tutorials or community engagement.
 - [Useful repositories](https://github.com/Aatmaj-Zephyr/A-collection-of-useful-repositories) A collection of useful repositories which provide learning resources.
