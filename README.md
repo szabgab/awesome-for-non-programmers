@@ -14,7 +14,6 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 - [List of Open Source projects](https://github.com/OSDC-Code-Maven/open-source-by-organizations/) by corporations, Higher Education Institutions, and governments
 - [Kantoniko](https://github.com/kantoniko/) the corner of Ladino on the Internet. You can contribute voice recordings, words in Ladino, translation of words. Sentences in Ladino, translation of sentences.
 - [Cloud Native Glossary](https://github.com/cncf/glossary/blob/main/CONTRIBUTING.md): [CNCF Glossary](https://glossary.cncf.io) explains cloud-native concepts and the terminologies involved in that ecosystem in simple language and does not require any prior technical background to grasp them. Individuals can start contributing to it by localizing/translating or modifying current terms or proposing new terms.
-- [Code And Talk](https://github.com/szabgab/codeandtalk.com): Collecting data about tech conferences in JSON files. The README has links to the file describing how to add [Events](https://github.com/szabgab/codeandtalk.com/blob/main/docs/EVENTS.md) to the "database".
 - [Common Voice](https://commonvoice.mozilla.org/en): Mozilla's initiative to help teach machines to understand speech. Everybody can [contribute voice recordings](https://commonvoice.mozilla.org/en/speak), [validate recordings](https://commonvoice.mozilla.org/en/listen), (only English so far) and [contribute sentences](https://commonvoice.mozilla.org/en/write) (all languages).
 - [Godot Engine](https://godotengine.org/): 2D and 3D cross-platform game engine. Help with [translating the engine and documentation](https://godotengine.org/article/godots-documentation-now-open-translation) or in [lots of other ways](http://docs.godotengine.org/en/latest/community/contributing/ways_to_contribute.html).
 - [LanguageTool](https://github.com/languagetool-org/languagetool): [LanguageTool](https://community.languagetool.org/) is an Open Source proofreading tool.
@@ -48,7 +47,8 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 
 List of projects which no longer accept contributions but are still interesting.
 
-- [Liar Game](https://github.com/fibanneacci/liar): A web-based multiplayer game. Contribute to the list of categories / words!.
+- [Code And Talk](https://github.com/szabgab/codeandtalk.com): Collecting data about tech conferences in JSON files. The README has links to the file describing how to add [Events](https://github.com/szabgab/codeandtalk.com/blob/main/docs/EVENTS.md) to the "database".
+- [Liar Game](https://github.com/fibanneacci/liar): A web-based multiplayer game. Contribute to the list of categories / words!
 
 ## Contributing to this list
 
