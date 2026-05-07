@@ -2,10 +2,10 @@
 
 ## About Rust
 
-* [awesome-axum](https://github.com/szabgab/awesome-axum).
-* [awesome-sqlx](https://github.com/szabgab/awesome-sqlx).
-* [awesome-tokio](https://github.com/szabgab/awesome-tokio).
-* [awesome-rust-db](https://github.com/szabgab/awesome-rust-db)
+- [awesome-axum](https://github.com/szabgab/awesome-axum).
+- [awesome-sqlx](https://github.com/szabgab/awesome-sqlx).
+- [awesome-tokio](https://github.com/szabgab/awesome-tokio).
+- [awesome-rust-db](https://github.com/szabgab/awesome-rust-db)
 
 ## About other subjects
 
