@@ -54,14 +54,14 @@ These are resources that will help you contribute to projects (and can be contri
 
 ## Inactive projects
 
-List of projects which no longer accept contributions but are still interesting.
+These are projects which no longer accept contributions but are still interesting.
 
 - [Code And Talk](https://github.com/szabgab/codeandtalk.com): Collecting data about tech conferences in JSON files. The README has links to the file describing how to add [Events](https://github.com/szabgab/codeandtalk.com/blob/main/docs/EVENTS.md) to the "database".
 - [Liar Game](https://github.com/fibanneacci/liar): A web-based multiplayer game. Contribute to the list of categories / words!
 
 ## Contributing to this list
 
-If you'd like to add an item, please provide a brief description what non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute..
+If you'd like to add an item, please submit a pull request with a brief description what non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute.
 
 ## License
 
